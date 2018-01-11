@@ -7,8 +7,7 @@ public class gittie{
     }
 
     public static void joke(){
-        System.out.println("Patient: Oh doctor, I’m just so nervous. This is my first operation. \n-
-        Doctor: Don't worry. Mine too.");
+        System.out.println("Patient: Oh doctor, I am just so nervous. This is my first operation. \n-Doctor: Dont worry. Mine too.");
     }
     public static int add(int a, int b){
         return a+b;
