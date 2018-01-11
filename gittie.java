@@ -12,4 +12,8 @@ public class gittie{
     public static int add(int a, int b){
         return a+b;
     }
+
+    public static void shout(){
+        System.out.println("ne kiabalja");
+    }
 }
