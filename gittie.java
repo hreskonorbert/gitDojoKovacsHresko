@@ -3,7 +3,7 @@ public class gittie{
         hello();
     }
     public static void hello(){
-        System.out.println("Hello i am gittie!");
+        System.out.println("Hello i am gittie! hail the codecool ");
     }
 
     public static void joke(){
